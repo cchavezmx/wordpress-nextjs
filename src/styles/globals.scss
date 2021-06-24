@@ -1,5 +1,10 @@
 @import "styles/settings/__settings";
+@import "styles/fonts.scss";
 @import "style.css";
+
+:root {
+  --itafont: "Oxygen";
+}
 
 * {
   box-sizing: border-box;

@@ -9,4 +9,7 @@ module.exports = {
       },
     },
   ],
+  "prettier/prettier": ["erro", {
+    endOfLine: "auto"
+  }]
 };
